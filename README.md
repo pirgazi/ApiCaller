@@ -5,8 +5,9 @@ Call all api methods (Post,Put,Patch,Get)
  ```
   var data = new car()
   {
-      name = "BMW 1200"
+      api-key = "121d@F$14",
+      username = "Pirgazi"
   };
 
-  ApiCaller.Call.Post<Result, car>("api.google.com", data);
+  ResponseModel result = ApiCaller.Call.Post<RequsetModel, ResponseModel>("api.google.com", data);
 ```
