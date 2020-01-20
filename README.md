@@ -1,3 +1,6 @@
+# How Install
+Install-Package ApiCallerGenerate
+
 # ApiCaller
   If you want to call a webApi you can use this package.
 
