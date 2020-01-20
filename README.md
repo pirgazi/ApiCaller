@@ -1,7 +1,7 @@
 # ApiCaller
 Call all api methods (Post,Put,Patch,Get)
  
- 
+ ** For Example : **
  ```
   var data = new car()
   {
