@@ -1,0 +1,9 @@
+E:\Project\OMid\CallUrl\CallUrl\bin\Debug\CallUrl.dll
+E:\Project\OMid\CallUrl\CallUrl\bin\Debug\CallUrl.pdb
+E:\Project\OMid\CallUrl\CallUrl\bin\Debug\Newtonsoft.Json.dll
+E:\Project\OMid\CallUrl\CallUrl\bin\Debug\Newtonsoft.Json.xml
+E:\Project\OMid\CallUrl\CallUrl\obj\Debug\CallUrl.csprojAssemblyReference.cache
+E:\Project\OMid\CallUrl\CallUrl\obj\Debug\CallUrl.csproj.CoreCompileInputs.cache
+E:\Project\OMid\CallUrl\CallUrl\obj\Debug\CallUrl.csproj.CopyComplete
+E:\Project\OMid\CallUrl\CallUrl\obj\Debug\CallUrl.dll
+E:\Project\OMid\CallUrl\CallUrl\obj\Debug\CallUrl.pdb
